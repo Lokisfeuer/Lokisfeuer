@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lokisfeuer
-- 👀 I’m interested in tabletop Roleplay games und coding
+- 👀 I’m interested in tabletop roleplay games und coding
 - 🌱 I’m currently learning excel data management and Python systematics
 
 Have a nice day! Smile to the world!
